@@ -13,5 +13,5 @@ git commit -m "Initial commit"
 git remote add origin https://github.com/satishyekula548/zelar-pratices.git
 
 # Push the changes to GitLab
-git push -u origin master
+git push -u origin main
 
